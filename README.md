@@ -1,3 +1,5 @@
+#Exercícios Propostos
+
 •Exercício 1: Apresente um resumo de tipos de dados e estatísticasdo dataset.
 
 •Exercício 2: Qual a média de cada turma?
